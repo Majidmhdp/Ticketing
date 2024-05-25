@@ -1,0 +1,11 @@
+D:\Project\Ticketing\Ticketing.Core\bin\Debug\net7.0\Ticketing.Core.deps.json
+D:\Project\Ticketing\Ticketing.Core\bin\Debug\net7.0\Ticketing.Core.dll
+D:\Project\Ticketing\Ticketing.Core\bin\Debug\net7.0\Ticketing.Core.pdb
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\Ticketing.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\Ticketing.Core.AssemblyInfoInputs.cache
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\Ticketing.Core.AssemblyInfo.cs
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\Ticketing.Core.csproj.CoreCompileInputs.cache
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\Ticketing.Core.dll
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\refint\Ticketing.Core.dll
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\Ticketing.Core.pdb
+D:\Project\Ticketing\Ticketing.Core\obj\Debug\net7.0\ref\Ticketing.Core.dll
