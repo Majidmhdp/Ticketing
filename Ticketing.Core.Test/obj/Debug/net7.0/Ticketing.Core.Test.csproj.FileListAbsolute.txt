@@ -148,3 +148,8 @@ D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\runtimes\win\lib\net6.
 D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
 D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\Ticketing.Core.dll
 D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\Ticketing.Core.pdb
+D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\Castle.Core.dll
+D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\Moq.dll
+D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Project\Ticketing\Ticketing.Core.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
