@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ticketing.Core.Model
+namespace Ticketing.Core.Enum
 {
-    public class TicketBookingRequest  : ServiceBookingBase
+	public enum BookingResultFlag
 	{
-    }
+		Success,
+		Failure
+	}
 }
